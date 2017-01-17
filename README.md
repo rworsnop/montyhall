@@ -1,4 +1,4 @@
-# Monty Hall Problem Simulator
+# Monty Hall problem simulator
 
 This is a Python script that simulates the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 
